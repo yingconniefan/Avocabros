@@ -1,8 +1,29 @@
-button {
-  color: red;
-  background-color: white;
-  margin: 30px 20px 10px 5px;
+.jumbotron {background-color: lightgreen}
+h1 {
+  color: Grey;
+  font-weight: bold;
+  font-size-adjust: auto;
 }
-blockquote {
-  background-color: green;
+
+h2 {
+  color: LightGreen;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.img-responsive {
+    border: 7px solid white;
+}
+
+.img-responsive:hover {
+  opacity: 0.3
+}
+.middle {
+  opacity: 0.3
+}
+
+.img-small {height: auto;
+width:100%
 }
