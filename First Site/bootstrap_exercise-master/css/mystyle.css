@@ -35,13 +35,20 @@ h2 {
 width:100%
 }
 
+/*entire navigation section*/
+.navbar{
+  padding:10px;
+  margin: 30px;
+}
+
+
 /* Keep in touch bar */
 .navbar-brand{
   width:400px;
   padding: 8px 16px;
   }
 
-/* Navigation Bar */
+/* Menu Bar */
 ul{
   list-style-type: none;
   margin: 5px;
