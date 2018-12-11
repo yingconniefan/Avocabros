@@ -4,6 +4,8 @@ h1 {
   font-weight: 500;
   font-size-adjust: auto;
   font-family: futura;
+  padding: 10px;
+  margin: 5px;
 }
 /* feel free to change the font values*/
 
@@ -33,11 +35,17 @@ h2 {
 width:100%
 }
 
+/* Keep in touch bar */
+.navbar-brand{
+  width:400px;
+  padding: 8px 16px;
+  }
+
 /* Navigation Bar */
 ul{
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 5px;
+  padding: 5px;
   width:200px;
   background-color: #f1f1f1;
   }
