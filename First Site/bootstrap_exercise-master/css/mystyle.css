@@ -1,6 +1,6 @@
 .jumbotron {background-color: LemonChiffon}
 h1 {
-  color: Grey;
+  color: OliveDrab;
   font-weight: 500;
   font-size-adjust: auto;
   font-family: futura;
@@ -9,11 +9,12 @@ h1 {
 }
 /* feel free to change the font values*/
 
-h2 {
-  color: Black;
+p {
+  color: LimeGreen;
   font-family: futura;
   letter-spacing: 3px;
-  text-transform: capitalize;
+  padding: 20px
+
 }
 
 .no-padding {
