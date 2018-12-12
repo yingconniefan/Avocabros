@@ -1,0 +1,73 @@
+.jumbotron {background-color: LemonChiffon}
+h1 {
+  color: OliveDrab;
+  font-weight: 500;
+  font-size-adjust: auto;
+  font-family: futura;
+  padding: 10px;
+  margin: 5px;
+}
+/* feel free to change the font values*/
+
+p {
+  color: LimeGreen;
+  font-family: futura;
+  letter-spacing: 3px;
+  padding: 20px
+
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.img-responsive {
+    border: 7px solid white;
+}
+
+.img-responsive:hover {
+  opacity: 0.3
+}
+.middle {
+  opacity: 0.3
+}
+
+.img-small {height: auto;
+width:100%
+}
+
+/*entire navigation section*/
+.navbar{
+  padding:10px;
+  margin: 30px;
+}
+
+
+/* Keep in touch bar */
+.navbar-brand{
+  width:400px;
+  padding: 8px 16px;
+  }
+
+/* Menu Bar */
+ul{
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+  width:200px;
+  background-color: #f1f1f1;
+  }
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  width: 100px;
+  }
+
+/* Navigation Bar: change the link color on hover */
+li a:hover {
+  background-color: LemonChiffon;
+  color: DimGrey;
+}
